@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(cmake_book_code)
+project(cpp_templates_up_and_running)
 
 set(CMAKE_CXX_STANDARD 17)
 
